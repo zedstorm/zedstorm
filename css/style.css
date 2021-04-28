@@ -1,0 +1,57 @@
+.ProfilePict {
+
+  display: inline-block;
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.ProfilePict img {
+  width: auto;
+  height: 200%;
+  margin-left: -50px;
+}
+
+.links {
+	display: inline-block;
+}
+
+.Position {
+  position: absolute;
+  margin-left: 210px;
+  margin-top: -180px;
+}
+
+.exp thead {
+
+background-color:darkred;
+
+}
+
+.exp tbody {
+color: white;
+
+}
+.exp tbody .td1 {
+
+background-color: gray;
+
+}
+
+.exp tbody .td2 {
+
+background-color: silver;
+
+}
+
+.pro table, .pro th, .pro td {
+border: 1px solid black;
+
+}
+.pro thead {
+background-color:black;
+color:white;
+
+}
